@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "748453f5-3d65-479d-a53d-0eb62ba2c59d",
+		"name": "ParcelAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40407060"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
